@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/hmahesh/.m2/repository/org/drools/knowledge-api/5.3.1.Final/knowledge-api-5.3.1.Final.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.drools"/>
+			<attribute name="maven.artifactId" value="knowledge-api"/>
+			<attribute name="maven.version" value="5.3.1.Final"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/hmahesh/workspace/onebill/target/onebill/WEB-INF/lib/knowledge-api-5.3.1.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
